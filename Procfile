@@ -1,1 +1,1 @@
-worker: node bot.js Hatsune Miku!
+worker: node bot.js 
